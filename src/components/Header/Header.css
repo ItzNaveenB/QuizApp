@@ -1,0 +1,18 @@
+.title{
+    text-transform: uppercase;
+    font-size: 8vw;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divider{
+    margin: 10px;
+    background-color: gray;
+    width: 100%;
+}
